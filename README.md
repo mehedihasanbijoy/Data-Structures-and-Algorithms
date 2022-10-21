@@ -5,7 +5,8 @@
 ### Table of Contents
     ├── Basics 
     │   ├── Problems
-    │   └── Dynamic Memory Allocation
+    │   ├── Dynamic Memory Allocation
+    │   └── Linked List
     ├── OOP                     
     │   ├── Classes and Objects    
     │   │   └── Dynamic Memory Allocation
