@@ -7,20 +7,23 @@
     │   ├── Problems
     │   ├── Dynamic Memory Allocation
     │   └── Linked List
+    │       ├── Singly Linked List
+    │       └── Doubly Linked List
     ├── OOP                     
     │   ├── Classes and Objects    
     │   │   └── Dynamic Memory Allocation
     │   ├── Template
     │   │   ├── Function Template
     │   │   └── Class Template
-    │   └── Operator Overloading     
+    │   ├── Operator Overloading  
+    │   └── Friend Function
     ├── List 
     │   ├── Unsorted List
     │   │   ├── Array Based
-    │   │   └── LinkedList Based
+    │   │   └── Linked List Based
     │   ├── Sorted List
     │   │   ├── Array Based
-    │   │   └── LinkedList Based
+    │   │   └── Linked List Based
     │   └── Problems
     ├── Stack 
     │   ├── Array Based
@@ -28,7 +31,7 @@
     │   └── Problems
     ├── Queue 
     │   ├── Array Based
-    │   ├── LinkedList Based
+    │   ├── Linked List Based
     │   └── Problems
     ├── Priority Queue
     │   ├── Priority Queue using Binary Heap
