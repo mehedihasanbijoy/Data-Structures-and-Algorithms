@@ -1,3 +1,7 @@
+![ece](https://user-images.githubusercontent.com/58245357/197278248-e8224feb-0f23-4394-bd6d-a0b21130fb44.JPG)
+
+<h2 align="center">CSE225L - Data Structures and Algorithms Lab</h2>
+
 ### Table of Contents
     ├── Basics 
     │   ├── Problems
