@@ -6,6 +6,7 @@
     ├── Basics 
     │   ├── Problems
     │   ├── Dynamic Memory Allocation
+    │   ├── Pass by Value Vs Pass by Pointer Vs Pass by Reference
     │   └── Linked List
     │       ├── Singly Linked List
     │       └── Doubly Linked List
