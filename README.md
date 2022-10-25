@@ -18,6 +18,16 @@
     │   │   └── Class Template (✓)
     │   ├── Operator Overloading (✓)
     │   └── Friend Function (✓)
+    ├── Sorting and Searching Algorithms  
+    │   ├── Sorting Algorithms
+    │   │   ├── Selection Sort, Bubble Sort, Insertion Sort, Quick Sort 
+    │   │   ├── Merge Sort, Heap Sort 
+    │   │   ├── Radix Sort 
+    │   │   └── Count Sort 
+    │   └── Searching Algorithms
+    │       ├── Linear Search
+    │       ├── Binary Search, Fibonacci Search
+    │       └── Exponential Search
     ├── List 
     │   ├── Unsorted List
     │   │   ├── Array Based
