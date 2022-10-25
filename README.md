@@ -1,23 +1,23 @@
-![ece](https://user-images.githubusercontent.com/58245357/197278248-e8224feb-0f23-4394-bd6d-a0b21130fb44.JPG)
+<!-- ![ece](https://user-images.githubusercontent.com/58245357/197278248-e8224feb-0f23-4394-bd6d-a0b21130fb44.JPG) -->
 
-<h2 align="center">CSE225L - Data Structures and Algorithms Lab</h2>
+<!-- <h2 align="center">CSE225L - Data Structures and Algorithms Lab</h2> -->
 
 ### Table of Contents
     ├── Basics 
-    │   ├── Problems
-    │   ├── Dynamic Memory Allocation
-    │   ├── Pass by Value Vs Pass by Pointer Vs Pass by Reference
+    │   ├── Problems (✓)
+    │   ├── Dynamic Memory Allocation (✓)
+    │   ├── Pass by Value Vs Pass by Pointer Vs Pass by Reference (✓)
     │   └── Linked List
     │       ├── Singly Linked List
     │       └── Doubly Linked List
     ├── OOP                     
-    │   ├── Classes and Objects    
-    │   │   └── Dynamic Memory Allocation
-    │   ├── Template
-    │   │   ├── Function Template
-    │   │   └── Class Template
-    │   ├── Operator Overloading  
-    │   └── Friend Function
+    │   ├── Classes and Objects (✓)
+    │   │   └── Dynamic Memory Allocation (✓)
+    │   ├── Template (✓)
+    │   │   ├── Function Template (✓)
+    │   │   └── Class Template (✓)
+    │   ├── Operator Overloading (✓)
+    │   └── Friend Function (✓)
     ├── List 
     │   ├── Unsorted List
     │   │   ├── Array Based
