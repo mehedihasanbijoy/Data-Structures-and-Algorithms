@@ -8,7 +8,7 @@
     │   ├── Dynamic Memory Allocation (✓)
     │   ├── Pass by Value Vs Pass by Pointer Vs Pass by Reference (✓)
     │   └── Linked List
-    │       ├── Singly Linked List
+    │       ├── Singly Linked List (✓)
     │       └── Doubly Linked List
     ├── OOP                     
     │   ├── Classes and Objects (✓)
@@ -25,15 +25,15 @@
     │   │   ├── Radix Sort 
     │   │   └── Count Sort 
     │   └── Searching Algorithms
-    │       ├── Linear Search
-    │       ├── Binary Search, Fibonacci Search
+    │       ├── Linear Search (✓)
+    │       ├── Binary Search (✓), Fibonacci Search
     │       └── Exponential Search
     ├── List 
     │   ├── Unsorted List
-    │   │   ├── Array Based
+    │   │   ├── Array Based (✓)
     │   │   └── Linked List Based
     │   ├── Sorted List
-    │   │   ├── Array Based
+    │   │   ├── Array Based (✓)
     │   │   └── Linked List Based
     │   └── Problems
     ├── Stack 
