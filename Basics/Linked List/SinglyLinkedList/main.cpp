@@ -96,6 +96,20 @@ void deleteByValue(int value){
     }
 }
 
+void reverseLinkedList(){
+    Node *prev = NULL;
+    Node *next = NULL;
+
+    while(head != NULL){
+        next = head->next;
+        head->next = prev;
+        prev = head;
+        head = next;
+    }
+
+    head = prev;
+}
+
 void print(){
     Node *temp = head;
     while(temp != NULL){
@@ -111,9 +125,9 @@ int main()
     insertAtHead(5);
     insertAtHead(3);
     insertAtHead(7);
+    insertAtHead(2);
     print();
-
-    deleteFromTail();
+    reverseLinkedList();
     print();
 
     return 0;
