@@ -27,7 +27,8 @@
     │   └── Searching Algorithms
     │       ├── Linear Search (✓)
     │       ├── Binary Search (✓), Fibonacci Search
-    │       └── Exponential Search
+    │       ├── Exponential Search
+    │       └── BFS, DFS
     ├── List 
     │   ├── Unsorted List
     │   │   ├── Array Based (✓)
@@ -44,12 +45,14 @@
     │   ├── Array Based
     │   ├── Linked List Based
     │   └── Problems
-    ├── Priority Queue
-    │   ├── Priority Queue using Binary Heap
-    │   └── Problems
     ├── Recursion
     │   └── Problems
-    ├── Binary Search Tree 
+    ├── Tree 
+    │   ├── Binary Search Tree
+    │   └── Problems
+    ├── Priority Queue
+    │   ├── Heap Based
     │   └── Problems
     └── Graph 
+        ├── Adjacency Matrix Based
         └── Problems
