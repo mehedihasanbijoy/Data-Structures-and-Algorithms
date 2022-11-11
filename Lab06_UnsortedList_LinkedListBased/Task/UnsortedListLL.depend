@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1667980420 source:h:\0 fall2022\testprojects\unsortedlistll\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+
+1667978151 source:h:\0 fall2022\testprojects\unsortedlistll\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
+1667978046 h:\0 fall2022\testprojects\unsortedlistll\unsortedtype.h
+
+1667978151 h:\0 fall2022\testprojects\unsortedlistll\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
