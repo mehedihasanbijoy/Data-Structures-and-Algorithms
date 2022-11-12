@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1666802789 source:h:\0 fall2022\testprojects\sortedlist\sortedtype.cpp
+	"sortedtype.h"
+
+1666803717 h:\0 fall2022\testprojects\sortedlist\sortedtype.h
+
+1666804874 source:h:\0 fall2022\testprojects\sortedlist\main.cpp
+	<iostream>
+	"sortedtype.cpp"
+	"timestamp.h"
+
+1666802789 h:\0 fall2022\testprojects\sortedlist\sortedtype.cpp
+	"sortedtype.h"
+
+1666804894 source:h:\0 fall2022\testprojects\sortedlist\timestamp.cpp
+	"timestamp.h"
+	<iostream>
+
+1666804590 h:\0 fall2022\testprojects\sortedlist\timestamp.h
+	<iostream>
+
