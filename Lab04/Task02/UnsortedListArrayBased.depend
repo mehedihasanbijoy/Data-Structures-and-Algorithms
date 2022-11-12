@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1666370948 source:h:\0 fall2022\testprojects\unsortedlistarraybased\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+
+1666370670 source:h:\0 fall2022\testprojects\unsortedlistarraybased\unsortedtype.cpp
+	"unsortedtype.h"
+
+1666370426 h:\0 fall2022\testprojects\unsortedlistarraybased\unsortedtype.h
+
+1666370670 h:\0 fall2022\testprojects\unsortedlistarraybased\unsortedtype.cpp
+	"unsortedtype.h"
+
+1666372670 source:h:\0 fall2022\testprojects\unsortedlistarraybased\studentinfo.cpp
+	"studentinfo.h"
+	<iostream>
+
+1666372670 h:\0 fall2022\testprojects\unsortedlistarraybased\studentinfo.h
+	<string>
+
