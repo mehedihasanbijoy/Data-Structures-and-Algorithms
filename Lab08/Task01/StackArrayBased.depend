@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668614778 source:h:\0 fall2022\testprojects\stackarraybased\stacktype.cpp
+	"StackType.h"
+
+1668614669 h:\0 fall2022\testprojects\stackarraybased\stacktype.h
+
+1668615453 source:h:\0 fall2022\testprojects\stackarraybased\main.cpp
+	<iostream>
+	"stacktype.cpp"
+
+1668614778 h:\0 fall2022\testprojects\stackarraybased\stacktype.cpp
+	"StackType.h"
+
