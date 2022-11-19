@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668792507 source:h:\0 fall2022\testprojects\queue_arraybased\queuetype.cpp
+	"queuetype.h"
+
+1668792448 h:\0 fall2022\testprojects\queue_arraybased\queuetype.h
+
+1668793840 source:h:\0 fall2022\testprojects\queue_arraybased\main.cpp
+	<iostream>
+	"queuetype.cpp"
+
+1668792507 h:\0 fall2022\testprojects\queue_arraybased\queuetype.cpp
+	"queuetype.h"
+
