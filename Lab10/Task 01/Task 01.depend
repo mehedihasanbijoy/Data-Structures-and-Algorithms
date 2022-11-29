@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1658942293 source:h:\cse225lmysolutions\stack ll\task 01\main.cpp
+	<iostream>
+	"stacktype.cpp"
+	<string>
+	<stack>
+
+1658144110 source:h:\cse225lmysolutions\stack ll\task 01\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1658143279 h:\cse225lmysolutions\stack ll\task 01\stacktype.h
+
+1658144110 h:\cse225lmysolutions\stack ll\task 01\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1669752455 source:h:\task 01-20221129t194346z-001\task 01\main.cpp
+	<iostream>
+	"stacktype.cpp"
+	<string>
+	<stack>
+
+1669752261 h:\task 01-20221129t194346z-001\task 01\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1669752261 h:\task 01-20221129t194346z-001\task 01\stacktype.h
+
+1669752261 source:h:\task 01-20221129t194346z-001\task 01\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
