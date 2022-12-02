@@ -21,10 +21,3 @@
     ├── Lab13 : Tree
     ├── Lab14 : Priority Queue
     └── Lab15 : Graph
-
-### LeetCode Problems
-| List          | Stack         | Queue         | Priority Queue | Tree          | Graph         |
-| ------------- | ------------- | ------------- | -------------- | ------------- | ------------- |
-| |          |  | Content Cell  | Content Cell  | Content Cell   | Content Cell  | Content Cell  |
-
-
