@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1659113559 source:h:\cse225lmysolutions\queue ll\task 01\main.cpp
+	<iostream>
+	"QueType.cpp"
+
+1659113210 source:h:\cse225lmysolutions\queue ll\task 01\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1659113224 h:\cse225lmysolutions\queue ll\task 01\quetype.h
+
+1659113210 h:\cse225lmysolutions\queue ll\task 01\quetype.cpp
+	"quetype.h"
+	<iostream>
+

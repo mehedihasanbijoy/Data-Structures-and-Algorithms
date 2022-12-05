@@ -1,0 +1,19 @@
+1. Initialize two integer type queues (amount and cost)
+2. Take array size from the user and initialize an array
+   2.1 Read coins from user and store into the array
+3. Read total amount from the user
+
+4. ENQUEUE all the coins and their count (initially 1) into amount and cost queues respectively
+
+5. Infinite LOOP
+   5.1 DEQUEUE coins from amount and count from cost
+   5.2 Check wheter the coins and target amount are same
+   5.3 If true, break the loop
+   5.4 ELSE
+       5.4.1 increase the count by 1
+       5.4.2 LOOP through the original array of coins
+             5.4.2.1 add previously checked coins with the current item of the array and Enqueue it into the amount queue
+             5.4.2.1 enqueue the corresponding count into the cost queue
+
+
+6. Print the count
