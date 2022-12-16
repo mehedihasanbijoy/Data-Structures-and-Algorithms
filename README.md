@@ -34,8 +34,7 @@
     <td>Lab00</td>
     <td>
         Introduction to C++ <br>
-        Reading / Tutorial / Problems
-        <!-- <a href="https://github.com/" target="_blank">Reading</a> <b>/</b> <a href="https://github.com/" target="_blank">Tutorial</a> <b>/</b> <a href="https://github.com/" target="_blank">Problems</a> -->
+        <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab00/LAB00.md#reading" target="_blank">Reading</a> <b>/</b> <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab00/LAB00.md#tutorial" target="_blank">Tutorial</a> <b>/</b> <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab00/LAB00.md#problems" target="_blank">Problems</a>
     </td>
   </tr>
   
