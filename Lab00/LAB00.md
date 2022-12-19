@@ -8,7 +8,7 @@
   
   <h3 id="reading">Reading</h3>
   <ul>
-    <li><b>[<a href="https://github.com/mehedihasanbijoy/CSE225L/edit/main/Lab00/LAB00.md">Chapter 11: An Overview of C++</a>] [<a href="https://github.com/mehedihasanbijoy/CSE225L/edit/main/Lab00/LAB00.md">C++: The Complete Reference, 4th Edition</a>]</b></li>
+    <li><b>[<a href="">Chapter 11: An Overview of C++</a>] [<a href="">C++: The Complete Reference, 4th Edition</a>]</b></li>
     
   </ul>
       
