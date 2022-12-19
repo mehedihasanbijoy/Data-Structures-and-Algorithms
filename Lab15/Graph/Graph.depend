@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1671251036 source:h:\0 fall2022\testprojects\graph\main.cpp
+	<iostream>
+	"graphtype.cpp"
+
+1671251430 source:h:\0 fall2022\testprojects\graph\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1671251325 h:\0 fall2022\testprojects\graph\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1671250044 h:\0 fall2022\testprojects\graph\stacktype.h
+
+1671250151 h:\0 fall2022\testprojects\graph\quetype.h
+
+1671250042 h:\0 fall2022\testprojects\graph\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1671250149 h:\0 fall2022\testprojects\graph\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1671250149 source:h:\0 fall2022\testprojects\graph\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1671250042 source:h:\0 fall2022\testprojects\graph\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1671251430 h:\0 fall2022\testprojects\graph\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
