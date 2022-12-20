@@ -42,7 +42,7 @@
     <td>Lab01</td>
     <td>
         Dynamic Memory Allocation <br>
-        Reading / Tutorial / Problems
+        <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab01/LAB01.md#reading" target="_blank">Reading</a> <b>/</b> <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab01/LAB01.md#tutorial" target="_blank">Tutorial</a> <b>/</b> <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab01/LAB01.md#problems" target="_blank">Problems</a>
     </td>
   </tr>
   
