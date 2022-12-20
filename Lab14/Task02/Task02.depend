@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1671561078 source:h:\0 fall2022\solutions\lab14_priorityqueue\task02\heaptype.cpp
+	"heaptype.h"
+
+1671561078 h:\0 fall2022\solutions\lab14_priorityqueue\task02\heaptype.h
+
+1671561078 source:h:\0 fall2022\solutions\lab14_priorityqueue\task02\pqtype.cpp
+	"pqtype.h"
+
+1671561078 h:\0 fall2022\solutions\lab14_priorityqueue\task02\pqtype.h
+	"heaptype.h"
+	"heaptype.cpp"
+
+1671561078 h:\0 fall2022\solutions\lab14_priorityqueue\task02\heaptype.cpp
+	"heaptype.h"
+
