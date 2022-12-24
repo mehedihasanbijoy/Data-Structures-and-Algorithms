@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1671855309 source:h:\0 fall2022\solutions\lab14_priorityqueue\bst\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1671854301 h:\0 fall2022\solutions\lab14_priorityqueue\bst\binarysearchtree.h
+	"quetype.h"
+
+1671853692 h:\0 fall2022\solutions\lab14_priorityqueue\bst\quetype.h
+
+1671853711 h:\0 fall2022\solutions\lab14_priorityqueue\bst\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1671853711 source:h:\0 fall2022\solutions\lab14_priorityqueue\bst\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1671855250 source:h:\0 fall2022\solutions\lab14_priorityqueue\bst\main.cpp
+	<iostream>
+	"binarysearchtree.cpp"
+
+1671855309 h:\0 fall2022\solutions\lab14_priorityqueue\bst\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
