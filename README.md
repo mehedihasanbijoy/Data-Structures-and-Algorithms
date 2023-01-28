@@ -50,7 +50,7 @@
     <td>Lab02</td>
     <td>
         Classes & Objects <br>
-        Reading / Tutorial / Problems
+        <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab02/LAB02.md#reading" target="_blank">Reading</a> <b>/</b> <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab02/LAB02.md#tutorial" target="_blank">Tutorial</a> <b>/</b> <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab02/LAB02.md#problems" target="_blank">Problems</a>
     </td>
   </tr>
   
