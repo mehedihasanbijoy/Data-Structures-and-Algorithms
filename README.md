@@ -58,7 +58,7 @@
     <td>Lab03</td>
     <td>
         Template & Operator Overloading <br>
-        Reading / Tutorial / Problems
+        <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab03/LAB03.md#reading" target="_blank">Reading</a> <b>/</b> <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab03/LAB03.md#tutorial" target="_blank">Tutorial</a> <b>/</b> <a href="https://github.com/mehedihasanbijoy/CSE225L/blob/main/Lab03/LAB03.md#problems" target="_blank">Problems</a>
     </td>
   </tr>
   
