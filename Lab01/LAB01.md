@@ -8,8 +8,8 @@
   
   <h3 id="reading">Reading</h3>
   <ul>
-    <li><b>[<a href="">Chapter 05</a>] [<a href="">C++: The Complete Reference, 4th Edition</a>]</b></li>
-    <li><b>[<a href="">Chapter 13</a>] [<a href="">C++: The Complete Reference, 4th Edition</a>]</b></li>
+    <li><b>[<a href="">Chapter 05 - Pointers</a>] [<a href="">C++: The Complete Reference, 4th Edition</a>]</b></li>
+    <li><b>[<a href="">Chapter 13 - Arrays, Pointers, References, and the Dynamic Allocation Operators</a>] [<a href="">C++: The Complete Reference, 4th Edition</a>]</b></li>
     
   </ul>
       
